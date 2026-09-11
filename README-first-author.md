@@ -1,0 +1,1 @@
+seeding a second distinct human committer (Max-Hirning) alongside hirningmax514w
