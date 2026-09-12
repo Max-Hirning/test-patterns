@@ -1,7 +1,7 @@
 <div align="center">
  <img width="524" src="https://github.com/user-attachments/assets/d460817f-058a-4d3f-b75c-b897c954ecdc" />
 </div>
- n
+ n   
 # [Lumitech](https://lumitech.co/) Node.js Fastify Template 
 Welcome to the Lumitech Node.js Fastify Template. This template provides a well-organized starting point for building back-end applications in Node.js, featuring Swagger-based API documentation, ready-to-use Docker configuration, and Awilix for dependency injection. With well-defined architectural patterns, it helps ensure the code remains maintainable, scalable, and testable, especially as the application grows.
 
